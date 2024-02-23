@@ -1,0 +1,56 @@
+body{
+    background: url("../img/joshua-earle-rS9qpmU0MVw-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#cont-algoritmos{
+    width: 80%;
+    margin: 120px auto;
+    border: 2px solid #fafafa(15, 54, 15, 0.493);
+    text-align: center;
+    padding: 30px;
+    background: rgba(3, 31, 19, 0.39);
+}
+
+h1{
+    font-size: 30px ;
+    color: beige;
+    margin-bottom: 40px;
+}
+
+h2{
+    font-size: 30px ;
+    color: beige;
+}
+
+p{
+    font-style: italic;
+    font-size: 15px;
+    color: bisque;
+}
+
+button{
+
+    padding: 10px 20px;
+    border:  2px solid #fafafa;
+    background: transparent;
+    color: white;
+    margin: 20px;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+   
+}
+
+button:hover{
+    background: #fafafa;
+    color: black;
+    border-radius: 6px;
+
+
+}
